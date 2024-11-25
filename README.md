@@ -15,6 +15,10 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 - MongoDB
 - NodeJS
 - ExpressJS
+
+## Deployed Link
+[Link Text](https://e-commerce-quad-btech.netlify.app/)
+
 ## Images
 ![Sign Up](./Images/User%20profile.jpg)
 ![Sign In](./Images/Sign%20in.jpg)
